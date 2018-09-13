@@ -1,0 +1,11 @@
+E:\UTM\Patterns\Factory Method\bin\Debug\netcoreapp2.0\Factory Method.deps.json
+E:\UTM\Patterns\Factory Method\bin\Debug\netcoreapp2.0\Factory Method.runtimeconfig.json
+E:\UTM\Patterns\Factory Method\bin\Debug\netcoreapp2.0\Factory Method.runtimeconfig.dev.json
+E:\UTM\Patterns\Factory Method\bin\Debug\netcoreapp2.0\Factory Method.dll
+E:\UTM\Patterns\Factory Method\bin\Debug\netcoreapp2.0\Factory Method.pdb
+E:\UTM\Patterns\Factory Method\obj\Debug\netcoreapp2.0\Factory Method.csprojResolveAssemblyReference.cache
+E:\UTM\Patterns\Factory Method\obj\Debug\netcoreapp2.0\Factory Method.csproj.CoreCompileInputs.cache
+E:\UTM\Patterns\Factory Method\obj\Debug\netcoreapp2.0\Factory Method.AssemblyInfoInputs.cache
+E:\UTM\Patterns\Factory Method\obj\Debug\netcoreapp2.0\Factory Method.AssemblyInfo.cs
+E:\UTM\Patterns\Factory Method\obj\Debug\netcoreapp2.0\Factory Method.dll
+E:\UTM\Patterns\Factory Method\obj\Debug\netcoreapp2.0\Factory Method.pdb
