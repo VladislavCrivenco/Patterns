@@ -1,0 +1,11 @@
+E:\UTM\Patterns\Chain of Responsability & Command\bin\Debug\netcoreapp2.1\Chain of Responsability & Command.deps.json
+E:\UTM\Patterns\Chain of Responsability & Command\bin\Debug\netcoreapp2.1\Chain of Responsability & Command.runtimeconfig.json
+E:\UTM\Patterns\Chain of Responsability & Command\bin\Debug\netcoreapp2.1\Chain of Responsability & Command.runtimeconfig.dev.json
+E:\UTM\Patterns\Chain of Responsability & Command\bin\Debug\netcoreapp2.1\Chain of Responsability & Command.dll
+E:\UTM\Patterns\Chain of Responsability & Command\bin\Debug\netcoreapp2.1\Chain of Responsability & Command.pdb
+E:\UTM\Patterns\Chain of Responsability & Command\obj\Debug\netcoreapp2.1\Chain of Responsability & Command.csprojAssemblyReference.cache
+E:\UTM\Patterns\Chain of Responsability & Command\obj\Debug\netcoreapp2.1\Chain of Responsability & Command.csproj.CoreCompileInputs.cache
+E:\UTM\Patterns\Chain of Responsability & Command\obj\Debug\netcoreapp2.1\Chain of Responsability & Command.AssemblyInfoInputs.cache
+E:\UTM\Patterns\Chain of Responsability & Command\obj\Debug\netcoreapp2.1\Chain of Responsability & Command.AssemblyInfo.cs
+E:\UTM\Patterns\Chain of Responsability & Command\obj\Debug\netcoreapp2.1\Chain of Responsability & Command.dll
+E:\UTM\Patterns\Chain of Responsability & Command\obj\Debug\netcoreapp2.1\Chain of Responsability & Command.pdb

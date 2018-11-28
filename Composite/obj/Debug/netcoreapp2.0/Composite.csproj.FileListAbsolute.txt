@@ -1,0 +1,11 @@
+E:\UTM\Patterns\Composite\obj\Debug\netcoreapp2.0\Composite.csprojResolveAssemblyReference.cache
+E:\UTM\Patterns\Composite\obj\Debug\netcoreapp2.0\Composite.csproj.CoreCompileInputs.cache
+E:\UTM\Patterns\Composite\obj\Debug\netcoreapp2.0\Composite.AssemblyInfoInputs.cache
+E:\UTM\Patterns\Composite\obj\Debug\netcoreapp2.0\Composite.AssemblyInfo.cs
+E:\UTM\Patterns\Composite\bin\Debug\netcoreapp2.0\Composite.deps.json
+E:\UTM\Patterns\Composite\bin\Debug\netcoreapp2.0\Composite.runtimeconfig.json
+E:\UTM\Patterns\Composite\bin\Debug\netcoreapp2.0\Composite.runtimeconfig.dev.json
+E:\UTM\Patterns\Composite\bin\Debug\netcoreapp2.0\Composite.dll
+E:\UTM\Patterns\Composite\bin\Debug\netcoreapp2.0\Composite.pdb
+E:\UTM\Patterns\Composite\obj\Debug\netcoreapp2.0\Composite.dll
+E:\UTM\Patterns\Composite\obj\Debug\netcoreapp2.0\Composite.pdb

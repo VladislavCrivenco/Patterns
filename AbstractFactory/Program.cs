@@ -11,6 +11,19 @@ namespace DesignPatterns
 
     class LightThemeGraphicalElementsFactory : IGraphicalElementsFactory
     {
+        private static LightThemeGraphicalElementsFactory _instance;
+
+        private LightThemeGraphicalElementsFactory(){
+
+        }
+        public static LightThemeGraphicalElementsFactory GetInstance(){
+            if (_instance == null){
+                _instance = new LightThemeGraphicalElementsFactory();
+            }
+
+            return _instance;
+        }
+
         public IButton CreateButton()
         {
             return new LightThemeButton();
@@ -24,6 +37,19 @@ namespace DesignPatterns
 
     class DarkThemeGraphicalElementsFactory : IGraphicalElementsFactory
     {
+        private static DarkThemeGraphicalElementsFactory _instance;
+
+        private DarkThemeGraphicalElementsFactory(){
+            
+        }
+        public static DarkThemeGraphicalElementsFactory GetInstance(){
+            if (_instance == null){
+                _instance = new DarkThemeGraphicalElementsFactory();
+            }
+
+            return _instance;
+        }
+
         public IButton CreateButton()
         {
             return new DarkThemeButton();
@@ -84,14 +110,14 @@ namespace DesignPatterns
     {
         public string Render()
         {
-            return "The result of the render of light theme text box.";
+            return "The result of the render of dark theme text box.";
         }
 
         public string Submit(IButton collaborator)
         {
             var result = collaborator.Render();
 
-            return $"The result of the light theme text box collaborating with the ({result})";
+            return $"The result of the dark theme text box collaborating with the ({result})";
         }
     }
 
@@ -101,11 +127,11 @@ namespace DesignPatterns
         public void Main()
         {
             Console.WriteLine("Client: Testing client code with the first factory type...");
-            ClientMethod(new LightThemeGraphicalElementsFactory());
+            ClientMethod(LightThemeGraphicalElementsFactory.GetInstance());
             Console.WriteLine();
 
             Console.WriteLine("Client: Testing the same client code with the second factory type...");
-            ClientMethod(new DarkThemeGraphicalElementsFactory());
+            ClientMethod(DarkThemeGraphicalElementsFactory.GetInstance());
         }
 
         public void ClientMethod(IGraphicalElementsFactory factory)
